@@ -1,0 +1,16 @@
+﻿Objectif
+L’Hippodrome de Casablanca organise un nouveau type de course de chevaux : les duels. 
+Lors d’un duel, seulement deux chevaux participent à la course. Pour que la course soit intéressante, 
+il faut sélectionner deux chevaux qui ont une puissance similaire.
+
+Écrivez un programme qui, à partir d’un ensemble donné de puissances, 
+identifie les deux puissances les plus proches et affiche leur écart avec un nombre entier positif.
+
+Jeux de données :
+/* Cas 1 */
+int[] puissance1 = {3,9,5,8};
+
+/* Cas 2 */
+int[] puissance2 = {10,5,15,17,3,8,11,28,6,55,7};
+
+/* Cas 3 : Générer un tableau aléatoire de 1000 entiers compris entre 1 et 100000 */
